@@ -8,7 +8,7 @@ cosmiccat, setmau, amazingdefender, dewsmith, roxi_mystle, adenator09a, just_gha
 beatblock, cato, portal, portal_orange, in_stars_and_time, pico_park, murder_drones
 
 ## Miscellaneous:
-blender, train, draconite
+blender, train, draconite, sillyplugin, charter
 
 ## Animated:
 @vyxey

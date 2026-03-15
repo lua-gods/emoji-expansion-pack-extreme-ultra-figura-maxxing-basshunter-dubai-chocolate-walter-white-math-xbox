@@ -33,6 +33,8 @@
     "\uE200": ["blender"],
     "\uE201": ["train"],
     "\uE202": ["draconite","draconite_halo"],
+    "\uE203": {"names":["sillyplugin","siypugi"], "color":"974fdb"},
+    "\uE204": ["charter"],
 
     "\uEFF1": ["back1"],
     "\uEFF4": ["back4"]

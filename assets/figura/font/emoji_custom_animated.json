@@ -5,7 +5,8 @@
       "file": "figura:font/emojis/custom_animated.png",
       "ascent": 8,
       "chars": [
-        "\uE000"
+        "\uE000",
+        "\uE001"
       ]
     }
   ]
