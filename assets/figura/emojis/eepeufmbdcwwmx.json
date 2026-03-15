@@ -1,0 +1,20 @@
+{
+	"blacklist": "",
+	"emojis": {
+		"\uE000": ["bubbling_mouth", "foamy_mouth"],
+		"\uE001": ["steve"],
+		"\uE002": ["thonk"],
+		"\uE003": ["happy"],
+		"\uE004": ["sheesh"],
+		"\uE005": ["uncanny"],
+		"\uE006": ["yassified"],
+		"\ue007": ["stare"],
+		
+		"\uE008": ["evil_smile"],
+		"\uE009": ["suspicious"],
+		"\uE00A": ["RAH","RAAH","RAAAH","RAAAAH","RAAAAAH","RAAAAAH","RAAAAAAH"],
+		"\uE00B": ["green_what","green_WHAT"],
+		"\uE00C": ["coma"],
+		"\uE00D": ["greek_capital_letter_yot","yot"]
+	}
+}

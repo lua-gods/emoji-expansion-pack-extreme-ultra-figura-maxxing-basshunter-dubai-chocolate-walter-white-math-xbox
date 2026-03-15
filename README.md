@@ -1,3 +1,22 @@
+
+## emojis added:
+- "bubbling_mouth", "foamy_mouth"
+- "steve"
+- "thonk"
+- "happy"
+- "sheesh"
+- "uncanny"
+- "yassified"
+- "stare"
+- "evil_smile"
+- "suspicious"
+- "RAH","RAAH","RAAAH","RAAAAH","RAAAAAH","RAAAAAH","RAAAAAAH"
+- "green_what","green_WHAT"
+- "coma"
+- "greek_capital_letter_yot","yot"
+
+---
+
 # Cosmic's Custom Emojis
 Adds new emojis to figura!
 
